@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['blog-walkthru.herokuapp.com', '8000-broken-helix-i-think-the-fua23s9ldg.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['blog-walkthru.herokuapp.com', '8000-broken-helix-i-think-the-fua23s9ldg.us2.codeanyapp.com', 'localhost']
 
 
 # Application definition
